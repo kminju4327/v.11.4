@@ -1,1 +1,1 @@
-# v.11.4
+# ai-detail-page-platform-v7
